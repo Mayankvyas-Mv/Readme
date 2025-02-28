@@ -41,3 +41,8 @@ drive business impact.
 ##  EDUCATION
 ### Bachelor of Technology | Computer science engineering
 *  Dayananda Sagar university : 8.34 CGPA - Apr 2021
+
+## Contact information
+**phone** : +91 7899949199
+**Email** : Mayankvyas0809@gmail.com
+**Linkedin** : www.linkedin.com/in/mayank-vyas-908b10197
