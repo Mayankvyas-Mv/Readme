@@ -27,8 +27,17 @@ drive business impact.
 *  Maintained and enhanced stored procedures, batch applications, and online programs, improving system efficiency and performance.
 *  Investigated and resolved incidents and system issues, identifying root causes and implementing permanent fixes through structured change management.
 
-Bengaluru, IN | www.mayankvyas0809@gmail.com | +91-7899949199
-GitHub | Linkedin
-CERTIFICATION
-PGP Data science from Intellipaat (MIT Certified)
-Machine Learning for Data Analysis
+## SKILLS
+*  Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (Teradata, DB2, Microsoft SQLServer)
+*  Data Processing & Analysis: Data wrangling, feature engineering, statistical analysis, hypothesis testing, timeseries analysis
+*  Machine Learning: Supervised & unsupervised learning, regression, classification, clustering
+*  Data Visualization: Matplotlib, Seaborn, Power BI
+*  Business & Communication: Data storytelling, A/B testing, stakeholder collaboration, Agile & Scrumethodologies
+
+## CERTIFICATION
+*  PGP Data science from Intellipaat (MIT Certified)
+*  Machine Learning for Data Analysis
+
+##  EDUCATION
+### Bachelor of Technology | Computer science engineering
+*  Dayananda Sagar university : 8.34 CGPA - Apr 2021
